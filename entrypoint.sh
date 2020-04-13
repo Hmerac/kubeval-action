@@ -1,3 +1,3 @@
-#!/usr/bin/env bash
+#!/bin/sh -l
 
-bash -c "$INPUT_COMMAND"
+sh -c "$INPUT_COMMAND"
